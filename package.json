@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "packageManager": "pnpm@9.0.0",
+  "devDependencies": {
+    "eslint-plugin-markdown": "^5.1.0"
+  }
+}
