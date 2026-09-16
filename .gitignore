@@ -1,0 +1,7 @@
+# 公開対象以外はすべて除外（ローカル作業ファイルは残す）
+*
+!.gitignore
+!README.md
+!docs/
+docs/*
+!docs/スキルシート_O.T_43_全文表.md
